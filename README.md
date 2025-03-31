@@ -1,11 +1,11 @@
 
-<h1 align="center"> Marco here! ( ͡⌐■_-■)</h1>
-<h3 align="center">Mechatronic student</h3>
+<h1 align="center"> Marco Rodriguez
+<h3 align="center">Mechatronics Engineering student</h3>
 
 <img align="right" alt="Animated GIF" width="400" src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif">
 
 
-### <img src="https://i.pinimg.com/originals/27/b2/16/27b216fa373d75906c2b8b51661d8b13.gif" width="50"> A little more about me...
+### <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWxibnRzN29xbXJ1ZmNmenRkaHB1Y2wyZDRlamFjaGhrcWU4b3I3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8NAeiRiTKz149e9sAX/giphy.gif" width="50"> A little more about me...
 
 -  Data Science and Mathematical Techniques Enthusiast 🤖💡
   
