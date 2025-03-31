@@ -2,9 +2,11 @@
 <h1 align="center"> Marco Rodriguez
 <h3 align="center">Mechatronics Engineering student</h3>
 
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWkyaXpoZTZmcjllZTBmYmYwb3g1bnpvZGRtaHdhcnU4em1kYmhtMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iJDPQdMeteloid0RnT/giphy.gif" width="250" align="right" />
+
 -  Data Science and Mathematical Techniques Enthusiast 🤖💡
   
--  I am currently building a delta robot that plays Tic Tac Toe 
+-  I am currently building a delta robot that plays Tic-Tac-Toe 
   
 -  Currently looking enhance my programming skills, looking for colaborations in **Machine Learning and Deep Learning** projects
 
