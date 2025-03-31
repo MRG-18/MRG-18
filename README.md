@@ -5,7 +5,7 @@
 <img align="right" alt="Animated GIF" width="400" src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif">
 
 
-### <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWxibnRzN29xbXJ1ZmNmenRkaHB1Y2wyZDRlamFjaGhrcWU4b3I3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8NAeiRiTKz149e9sAX/giphy.gif" width="50"> A little more about me...
+### <img src="[https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWxibnRzN29xbXJ1ZmNmenRkaHB1Y2wyZDRlamFjaGhrcWU4b3I3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8NAeiRiTKz149e9sAX/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHYxa3dyamJhOXA0ZXNjMDZ0ZHdidHR5MGVtY2NkeHc0azRjdHdzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif)" width="50"> A little more about me...
 
 -  Data Science and Mathematical Techniques Enthusiast 🤖💡
   
