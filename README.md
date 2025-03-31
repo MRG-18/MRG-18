@@ -6,22 +6,20 @@
   
 -  I am currently learning **Bayesian Statistics!** 
   
--  Working as a **Software Engineer** at Sidepocket
+-  Currently looking to work in a Software Position
 
--  I am the president of the board of directors of the Guadalajara Algorithms Club. (One of the biggest in Mexico with around 900 members)
+-  I am the president of the Mechatronics Student Association and Boad member of the Student Council Directive Board
 
 -  I’m looking for colaborations in **Machine Learning and Deep Learning** projects
 
--  Ask me about **C++, python, Flask, React, Nextjs, algorithms and more**
-
 -  To reach me send a Email to **marcoadrian.rodriguez@gmail.com** or **A01635461@TEC.MX**
   
--  Fun fact **I enjoy hit the Gym**
+-  Fun fact **I love retro cars**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jos%C3%A9-mar%C3%ADa-soto-valenzuela-070a2626b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josé maría soto valenzuela" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/gorchon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gorchon" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/gorchon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="MRG-18" height="30" width="40" /></a>
 </p>
 
 ```javascript
