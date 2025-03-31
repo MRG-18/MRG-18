@@ -16,7 +16,7 @@
 -  Fun fact **I love retro cars**
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTc5MmRub2syaWp2NGUxeWM3a293MWNiZjlkNGNrMmZzcnUyOXNpMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JHsos369mkc0M/giphy.gif" width="500" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTc5MmRub2syaWp2NGUxeWM3a293MWNiZjlkNGNrMmZzcnUyOXNpMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JHsos369mkc0M/giphy.gif" width="400" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
