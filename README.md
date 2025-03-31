@@ -15,7 +15,9 @@
   
 -  Fun fact **I love retro cars**
 
-  
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXZhNjByOHQ0dzd1cXEzbnV6cTFvdTFqcjV5OHAxbjE3ZnZqOTQxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W4feZLAP2y5JlUngau/giphy.gif" width="750" />
+</p>
 
 <h3 align="right">Connect with me:</h3>
 <p align="right">
