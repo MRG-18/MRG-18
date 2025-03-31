@@ -2,7 +2,6 @@
 <h1 align="center"> Marco Rodriguez
 <h3 align="center">Mechatronics Engineering student</h3>
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWkyaXpoZTZmcjllZTBmYmYwb3g1bnpvZGRtaHdhcnU4em1kYmhtMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iJDPQdMeteloid0RnT/giphy.gif" width="250" align="right" />
 
 -  Data Science and Mathematical Techniques Enthusiast 🤖💡
   
@@ -15,6 +14,10 @@
 -  To reach me send a Email to **marcoadrian.rodriguez@gmail.com** or **a01635461@tec.mx**
   
 -  Fun fact **I love retro cars**
+
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTc5MmRub2syaWp2NGUxeWM3a293MWNiZjlkNGNrMmZzcnUyOXNpMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JHsos369mkc0M/giphy.gif" width="750" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
