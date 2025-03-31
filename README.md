@@ -2,7 +2,7 @@
 <h1 align="center"> Marco Rodriguez
 <h3 align="center">Mechatronics Engineering student</h3>
 
-<img align="right" alt="Animated GIF" width="400" src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif">
+<img align="right" alt="Animated GIF" width="400" src="[https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWkyaXpoZTZmcjllZTBmYmYwb3g1bnpvZGRtaHdhcnU4em1kYmhtMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iJDPQdMeteloid0RnT/giphy.gif)">
 
 
 ### <img src="[https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWxibnRzN29xbXJ1ZmNmenRkaHB1Y2wyZDRlamFjaGhrcWU4b3I3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8NAeiRiTKz149e9sAX/giphy.gif]" width="50"> A little more about me...
