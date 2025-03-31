@@ -19,7 +19,7 @@
 
 -  Ask me about **C++, python, Flask, React, Nextjs, algorithms and more**
 
--  To reach me send a Email to **chemasmas@outlook.es** or **A01254831@TEC.MX**
+-  To reach me send a Email to **marcoadrian.rodriguez@gmail.com** or **A01635461@TEC.MX**
   
 -  Fun fact **I enjoy hit the Gym**
 
