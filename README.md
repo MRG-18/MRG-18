@@ -4,15 +4,13 @@
 
 -  Data Science and Mathematical Techniques Enthusiast 🤖💡
   
--  I am currently learning **Bayesian Statistics!** 
+-  I am currently building a delta robot that plays Tic Tac Toe 
   
--  Currently looking to work in a Software Position
+-  Currently looking enhance my programming skills, looking for colaborations in **Machine Learning and Deep Learning** projects
 
 -  I am the president of the Mechatronics Student Association and Boad member of the Student Council Directive Board
 
--  I’m looking for colaborations in **Machine Learning and Deep Learning** projects
-
--  To reach me send a Email to **marcoadrian.rodriguez@gmail.com** or **A01635461@TEC.MX**
+-  To reach me send a Email to **marcoadrian.rodriguez@gmail.com** or **a01635461@tec.mx**
   
 -  Fun fact **I love retro cars**
 
