@@ -15,14 +15,10 @@
   
 -  Fun fact **I love retro cars**
 
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXZhNjByOHQ0dzd1cXEzbnV6cTFvdTFqcjV5OHAxbjE3ZnZqOTQxeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W4feZLAP2y5JlUngau/giphy.gif" width="300" />
-</p>
-
 <h3 align="right">Connect with me:</h3>
 <p align="right">
-<a href="https://www.linkedin.com/in/jos%C3%A9-mar%C3%ADa-soto-valenzuela-070a2626b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josé maría soto valenzuela" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/gorchon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="MRG-18" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/marcorg18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josé maría soto valenzuela" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/marcorgz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="MRG-18" height="30" width="40" /></a>
 </p>
 
 ```javascript
