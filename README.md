@@ -15,7 +15,7 @@
   
 -  Fun fact **I love retro cars**
 
-
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,9 +23,6 @@
 <a href="https://www.leetcode.com/gorchon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="MRG-18" height="30" width="40" /></a>
 </p>
 
-<p align="right">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTc5MmRub2syaWp2NGUxeWM3a293MWNiZjlkNGNrMmZzcnUyOXNpMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JHsos369mkc0M/giphy.gif" width="400" />
-</p>
 ```javascript
 const Marco = {
   pastCompanies:['Sidepocket Inc','Phoenix Eye', 'Oracle' ],
